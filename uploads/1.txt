@@ -1,0 +1,27 @@
+#include <stdio.h>
+#include <stdlib.h>
+#define MAX 1000
+int main()
+{
+    int a[]={4,10,12,15,18,22,24,25,31,35,44,50,66,70,90};
+    int c,i=0,l;
+    l = sizeof(a)/sizeof(a[0]);
+    c=l/2;
+    int b[l];
+    int r[l/2];
+    while(c!=0){
+        b[i]=a[c];
+        r[i]=a[c+1];
+        i++;
+        c=c/2;
+
+    }
+    b[i]=a[c];
+//    while()
+    for(i=0;i<l;i++)
+        printf("%d  ",b[i]);
+    printf("\n");
+    for(i=0;i<l/2;i++)
+        printf("%d  ",r[i]);
+    }
+
