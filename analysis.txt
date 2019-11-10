@@ -1,0 +1,12 @@
+worst case - upper bound of program(max no of operations)
+e.g. like in linear search element is not present in array
+
+average case - For the linear search problem,
+ let us assume that all cases are uniformly distributed
+ (including the case of x not being present in array).
+ So we sum all the cases and divide the sum by (n+1).
+ Following is the value of average case time complexity.
+
+best case - lower bound of program(min no of operations)
+The number of operations in the best case is constant (not dependent on n)
+So time complexity in the best case would be T(1)
