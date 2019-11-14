@@ -1,11 +1,11 @@
-
+Moodle
 
 Problem Statement :
 
 The purpose of our moodle application is to make a make easy portal where college academics work.
  
 Objectives: 
-•It helps in the smooth hosting of courses. Faculties can post assignments and students can evaluate the same and the same can be graded   as well.
+•It helps in the smooth hosting of courses. Faculties can post assignments and students can evaluate the same and the same can be graded  as well.
 
 •The Moodle application will have three modes of login: student login, administrator login, and staff login. The administrator has the most authority.
 
