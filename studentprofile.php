@@ -36,7 +36,7 @@ $result = mysqli_query($con, $q);
   <div class="container">
   <h2 align="center"><b>Student Profile Record</b></h2>
   <br><br><br>
-  <center><img src="<?php echo $_SESSION['image1']; ?>" height="200" width="150"/></center>
+  <center><img src="<?php echo $_SESSION['image1']; ?>" height="200" width="150"/></center> //adding student photo
   <br><br>
   <table align="center" class="table">
         <td> Roll Number</td>
