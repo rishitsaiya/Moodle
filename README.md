@@ -26,7 +26,7 @@ The purpose of our moodle application is to make a make easy portal where colleg
   * Backend:
     * [PHP](https://www.php.net/)  [Mysql](https://www.mysql.com/)  [XAMPP](https://www.apachefriends.org/index.html)
   * Frontend:
-    * [HTML](https://www.w3schools.com/html/) &nbsp; [CSS Bootstrap](https://getbootstrap.com/docs/3.4/css/)
+    * [HTML](https://www.w3schools.com/html/) ; [CSS Bootstrap](https://getbootstrap.com/docs/3.4/css/)
 
 ## Installation Guide :
 
