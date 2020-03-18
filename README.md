@@ -48,3 +48,5 @@ If you are an instructor, you will have to get registered by the administrator f
 If you are an administrator, you will have all access to view all the instructors' and students' details and their courses involvement as well. Further more, you will able to add student, instructor for a particular course as well.
 
 This basically sums up all the basic information about usage of the software.
+
+### Open for PRs
